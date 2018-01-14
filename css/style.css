@@ -716,3 +716,15 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+.media-body p{
+	font-size: 18px;
+}
+.text-right{
+	text-align: left !important;
+}
+li {
+	list-style:  none;
+}
+.widget-title{
+	text-align: center;
+}
